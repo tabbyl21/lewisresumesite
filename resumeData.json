@@ -110,5 +110,17 @@
         "url":"https://www.hercampus.com/author/tabatha-lewis-sim"
       }
     ]
+  },
+  "testimonials":{
+    "testimonials":[
+     {
+        "text":"You en’t afraid, are you? Not yet. When I am, I shall master the fear.",
+        "user":"Phillip Pullman. The Golden Compass."
+      },
+      {
+        "text":"A whale is as intelligent as we are, just in a way we can’t quite measure or understand. Because we’re these incredibly blunt instruments.",
+        "user":"Jeff VanderMeer. Acceptance."
+      }
+    ]
   }
 }
