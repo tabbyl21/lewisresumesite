@@ -41,16 +41,46 @@
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"NBCUniversal",
+        "title":"Machine Learning Intern",
+        "years":"Jan 2020 - May 2020",
+        "description":"Investigated the XGBoost Machine Learning Algorithm and its application to NBC’s recommendation engine. Conducted data analysis on datasets with hundreds of millions of entries using Python, Spark and SQL to draw data driven consumer insights. Cleaned datasets and created visualizations using DOMO to present findings."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Fox Corporation",
+        "title":"Summer Video Engineering Intern, Fall Video Engineering Intern, Software Developer",
+        "years":"May 2019 - Jan 2020",
+        "description":"Created internal tools such as a tool to extract id3 tags and Nielsen watermarks from live video streams (VDMS and AWS) utilizing AWS and Python and created a web interface to access the tool with React (JavaScript, HTML/CSS). Resolved issues with Verizon's API logging messages to Splunk. Worked with complex Video and API structures and formats."
+      },
+      {
+        "company":"SEASnet Computing Facility",
+        "title":"Lab Consultant",
+        "years":"Jan 2019- June 2020",
+        "description":"Answered technology and software related questions in a time sensitive environment. Diagnosed and resolved basic hardware and software failures."
+      },
+      {
+        "company":"Daily Bruin",
+        "title":"Opinion Columnist, News and A&E Contributor",
+        "years":"Oct 2017 -June 2020",
+        "description":"Wrote articles for UCLA’s award-winning newspaper. Collected and vetted facts within time constraints by conducting informative interviews for and with the public. Quickly understood advanced research topics in a variety of fields, such as neuroscience, biology, psychology and sociology, and explained the research to the general public in a digestible manner."
+      },
+      {
+        "company":"Stealth Start-Up",
+        "title":"Software Engineering Intern - Data",
+        "years":"July 2017 – Feb 2018",
+        "description":"Created Python modules for risk metric analysis of stock portfolios at an AI based stock trading stealth startup. Pulled and analyzed stock data from Yahoo Finance."
+      },
+      {
+        "company":"Geschwind Laboratory UCLA",
+        "title":"Undergraduate Researcher",
+        "years":"Oct 2016 – Feb 2017",
+        "description":"Analyzed gene expression in hundreds of thousands of cells and used R to eliminate biases introduced by the gene detection methods."
+      },
+      {
+        "company":"Ozcan Research Group UCLA",
+        "title":"Undergraduate Researcher",
+        "years":"June 2016 – Aug 2016",
+        "description":"Prepared biological samples and examined samples using imaging techniques, such as dark-field and bright-field microscopy."
       }
     ],
     "skills":[
