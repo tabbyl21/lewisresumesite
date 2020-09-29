@@ -18,28 +18,13 @@
     "resumedownload":"https://tabbyl21.github.io/resume/Tabatha_Lewis_Resume.pdf",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/tabatha-lewis-4a6817151/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/tabbyl21",
         "className":"fa fa-github"
       }
     ]
@@ -48,11 +33,11 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
+        "school":"University of California, Los Angeles",
+        "degree":"Mathematics of Computation, Bachelor of Science",
+        "graduated":"June 2020",
+        "description":"Studied Mathematics and Computer Science. Took coursework in Biology, Chemistry, Physics and French!"
+      }
       {
         "school":"School #1 Maybe College?",
         "degree":"What did you study 101",
