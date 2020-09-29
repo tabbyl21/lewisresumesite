@@ -14,7 +14,7 @@
       "state":"California",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "http://tabbyl21.github.io/tabatharesumesite",
     "resumedownload":"https://tabbyl21.github.io/resume/Tabatha_Lewis_Resume.pdf",
     "social":[
       {
@@ -87,30 +87,6 @@
       {
         "name":"Python",
         "level":"60%"
-      },
-      {
-        "name":"VueJs",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"PHP",
-        "level":"80%"
-      },
-      {
-        "name":"Swift",
-        "level":"50%"
-      },
-      {
-        "name":"JAVA",
-        "level":"80%"
       }
     ]
   },
