@@ -1,9 +1,9 @@
 {
   "main": {
     "name":"Tabatha Lewis",
-    "description":"Mathematics of Computations UCLA graduate who is looking for work!",
+    "description":"Mathematics of Computations UCLA graduate!",
     "image":"profilepic.jpg",
-    "bio":"I'm an eager, recent UCLA graduate! I am looking to work in AI/Software Engineering!",
+    "bio":"Interested in working in Software Engineering specifically on an ML Platform and/or relating to blockchain and/or signals!",
     "email": "tabathasuzannelewis@gmail.com",
     "phone": "555-555-5555",
     "github":"https://github.com/nordicgiant2/react-nice-resume",
@@ -41,6 +41,12 @@
       }
     ],
     "work":[
+       {
+        "company":"Cloudera",
+        "title":"Software Engineer - Machine Learning Platform",
+        "years":"Feb 2021 - present",
+        "description":" Develop features (fullstack), fix bugs, and write back-end/front-end tests for Cloudera's ML platform CDSW, which runs in a Kubernetes cluster (distributed system) and is written in Go/Node.js. (K8s, Angular.js, React.js, Node.js, PostgreSQL). Manage and resolve issues that arise from working with K8s. Improve Build/infrastructure for other developers. Developed the back-end (API, Database layer, etc..) of the Data Connection feature which creates an abstraction of data warehouses to facilitate users in connecting to data warehouses (Hive, Spark and Impala using Spark and Impyla). Currently expanding this to allow for feature and dataset storage. Integrated this feature with other products at Cloudera such as a data visualization tool."
+      },
       {
         "company":"NBCUniversal",
         "title":"Machine Learning Intern",
@@ -86,7 +92,7 @@
     ],
     "skills":[
       {
-        "name":"C, C++, Unix, Reg Ex, Bash/Shell, Java, Python (Numpy, Pandas, SciPy, Matplotlib), R (ggplot) , JavaScript (d3.js, React), Unity, Matlab, Git, HTML/CSS, Spark, SQL, Tensorflow, AWS, Databricks, Splunk, Docker, Tableau, Microsoft Office Suite, Adobe Suite"
+        "name":"C, C++, Solidity, Unix, Reg Ex, Bash/Shell, Java, Python (Numpy, Pandas, SciPy, Matplotlib), R (ggplot), JavaScript (d3.js, web3js, ReactJS, AngularJS), NodeJS, Unity, Matlab, Git, HTML/CSS, Spark, SQL, Tensorflow, AWS, Databricks, Splunk, Docker, Kubernetes, Microsoft Office Suite"
       }
     ]
   },
