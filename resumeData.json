@@ -41,6 +41,12 @@
       }
     ],
     "work":[
+      {
+        "company":"Decentral Games",
+        "title":"Consultant - Full Stack Developer",
+        "years":"Nov 2021 - present",
+        "description":"Scale Decentral Games Databases. Create Subgraphs for Decentral Games to pull data from the chain. Fix bugs and implement new features."
+      },
        {
         "company":"Cloudera",
         "title":"Software Engineer - Machine Learning Platform",
